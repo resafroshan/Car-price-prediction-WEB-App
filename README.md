@@ -11,7 +11,7 @@ Using hyperparameter tuning, the best regression model with best parameters are 
 - **Streamlit** - Module used to build and deploy the model
 
 ## Preview
-Check the video file in the repository
+https://drive.google.com/file/d/1L4WNArAhSuAxFPFz7r7GRKOZSiAtJVYg/view?usp=sharing
 
 ## How to run the app
 
