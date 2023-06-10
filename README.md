@@ -1,4 +1,4 @@
-# Car-price-predictor-WEB-App
+# Car Price Prediction WEB App - 90% Accuracy
 
 This is a WEB based tool to predict the market value of used collector cars (Cars from 1980s) in United States of America.
 This tool can help the user in knowing the accurate buying/selling price of the car, so that the user can get the best deal out of it. 
