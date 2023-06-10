@@ -2,7 +2,7 @@
 
 This is a WEB based tool to predict the market value of used collector cars (Cars from 1980s) in United States of America.
 This tool can help the user in knowing the accurate buying/selling price of the car, so that the user can get the best deal out of it. 
-The ML Model is a RandomForestRegressor, trained with a dataset containing specifications and corresponding price of 1980s cars.
+The ML Model is a RandomForestRegressor, trained with a dataset containing specifications and corresponding prices of 1980s cars.
 Using hyperparameter tuning, the best regression model with best parameters are obtained.
 
 ## Technologies used
